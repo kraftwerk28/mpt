@@ -1,0 +1,6 @@
+[submodule "proxx"]
+	path = proxx
+	url = https://github.com/kraftwerk28/proxx
+[submodule "02-proxy-server"]
+	path = 02-proxy-server
+	url = https://github.com/kraftwerk28/proxx

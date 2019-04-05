@@ -1,0 +1,14 @@
+{
+  "name": "schedule-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vsevolod (@kraftwerk28) <kefirchik3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "telegraf": "^3.28.0"
+  }
+}
